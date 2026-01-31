@@ -69,4 +69,4 @@ Contact
 - Author / maintainer: youssefemadsalem
 
 License
-- (Not currently specified.) If you'd like, I can add an MIT license file for you.
+This project is open source and available under the MIT License.
